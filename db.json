@@ -54,9 +54,6 @@
     { "id": 4,"planetId": 5,
         "name":"Saturne",
          "description": "Saturne est la sixième planète du Système solaire par ordre d'éloignement au Soleil.","logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png", "seemore":"https://fr.wikipedia.org/wiki/Saturne_(plan%C3%A8te)" },
-    { "id": 5,"planetId": 3,"name":"Mars", "description": "Mars est la quatrième planète du Système solaire par ordre croissant de la distance au Soleil","logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png", "seemore":"https://fr.wikipedia.org/wiki/Mars_(plan%C3%A8te)" },
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 5,"planetId": 3,"name":"Mars", "description": "Mars est la quatrième planète du Système solaire par ordre croissant de la distance au Soleil","logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png", "seemore":"https://fr.wikipedia.org/wiki/Mars_(plan%C3%A8te)" }
+  ]
 }
